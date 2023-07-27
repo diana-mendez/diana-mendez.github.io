@@ -2,7 +2,7 @@
 
 .navbar {
   padding: 2rem;
-  background-color: #7e96ad;
+  background-color: white;
 }
 
 .navbar-collapse {
@@ -26,12 +26,12 @@ h1 {
 
 .seccion-oscura {
   color: white;
-  background-color: #124f5e;
+  background-color: #644677;
 }
 
 .seccion-clara {
   color: black;
-  background-color: white;
+  background-color: rgb(211, 204, 212);
 }
 
 .seccion-titulo {
@@ -42,7 +42,7 @@ h1 {
 
 .seccion-descripcion {
   font-size: 1.2rem;
-  color: #584e4e;
+  color: #72408a;
 }
 
 .seccion-texto {
@@ -65,7 +65,7 @@ h1 {
 /* Seccion Hero */
 
 .hero {
-  background-color: #f5f6f7;
+  background-color: rgb(211, 204, 212);
   min-height: 450px;
   text-align: center;
 }
@@ -105,7 +105,7 @@ h1 {
 
 .experiencia .columna {
   padding: 20px;
-  border: 2px solid #8080804d;
+  border: 2px solid #4f22644d;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -115,13 +115,13 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #1b1b32;
+  background-color: #281b32;
 }
 
 .experiencia i {
   font-size: 2.5rem;
-  color: #7ade30;
-  background-color: #0a0a23;
+  color: white;
+  background-color: #8e4f9e;
   padding: 8px 19px;
   border-radius: 50%;
 }
@@ -265,7 +265,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: rgb(178, 21, 218);
+  background-color: rgb(91, 49, 95);
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
@@ -347,7 +347,7 @@ footer {
 
 .iconos-redes-sociales a:hover {
   background-color: white;
-  border: 2px solid rgb(13, 137, 253);
+  border: 2px solid rgb(172, 22, 236);
 }
 
 .iconos-redes-sociales a:hover i {
